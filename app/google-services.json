@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926179669369",
+    "firebase_url": "https://manipur-2a708.firebaseio.com",
+    "project_id": "manipur-2a708",
+    "storage_bucket": "manipur-2a708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926179669369:android:8b732e78a3da0c61faeba8",
+        "android_client_info": {
+          "package_name": "com.covid19.manipur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926179669369-15m9hkqijbamtjorbb6b0dcv1a464st7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdtn-cyFXPgo7ayTzd3Bk-_MDU_0xo6vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926179669369-15m9hkqijbamtjorbb6b0dcv1a464st7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
